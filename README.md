@@ -1,3 +1,19 @@
+Proyecto Linker 
+Capturas de la aplicacion 
+
+![Captura de pantalla de la app](./assets/Proyect/Linker_Login.jpeg)
+![Login para empresa](./assets/Proyect/Linker_Login_Empresa.jpeg)
+![Perfil de usuario](./assets/Proyect/Linker_Profile.jpeg)
+![Puestos disponibles](./assets/Proyect/Linker_Puestos.jpeg)
+![Puestos por parte del usuarios ](./assets/Proyect/Linker_Candidatos_Puestos.png)
+![Puestos por parte de la empresa ](./assets/Proyect/Linker_Candidatos_Puesto.jpeg)
+
+
+
+
+
+
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
