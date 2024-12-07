@@ -1,5 +1,5 @@
-Proyecto Linker 
-Capturas de la aplicacion 
+Linker Project 
+Application screenshots
 
 ![Captura de pantalla de la app](./assets/Proyect/Linker_Login.jpeg)
 ![Login para empresa](./assets/Proyect/Linker_Login_Empresa.jpeg)
